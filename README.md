@@ -256,7 +256,6 @@ In the global sample, the server performs much better when serving to close than
 
 ![Directional pressure effect](reports/figures/24_directional_stake_delta_vs_normal.png)
 
-![Serving to close vs survive](reports/figures/25_serving_to_close_vs_survive.png)
 
 This suggests that pressure should be analyzed not only by point importance, but also by who holds the opportunity.
 
@@ -274,7 +273,6 @@ In the analyzed sample:
 | Hard | ~64.8% |
 | Clay | ~62.0% |
 
-![Weighted serve win rate by surface](reports/figures/26_weighted_serve_win_rate_by_surface.png)
 
 The project also checks whether pressure effects differ by surface.
 
