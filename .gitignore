@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.git/
+*.log
+
+# Raw data can be large and is often not ideal for public repos
+data/raw/
